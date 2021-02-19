@@ -19,7 +19,7 @@ public class SegundoProgramaJava {
         int a = 0;
         if (a == 0) {
             System.out.println("Hola Mundo : " + a);
-        }    
-        
+        }           
+        System.out.println(" Segundo Cambio ");        
     }
 }
